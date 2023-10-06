@@ -1,1 +1,3 @@
-# c-dados-kit-resistores
+# Kit de placas com resistores para aula de Ciência de Dados
+
+
