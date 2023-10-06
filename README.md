@@ -1,0 +1,1 @@
+# c-dados-kit-resistores
